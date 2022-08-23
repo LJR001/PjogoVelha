@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace pjogoVelha
+namespace PJogoVelha
 {
     internal class Program
     {
