@@ -1,0 +1,16 @@
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.exe
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.deps.json
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.runtimeconfig.json
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.runtimeconfig.dev.json
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.dll
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\bin\Debug\net5.0\pjogoVelha.pdb
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.csproj.AssemblyReference.cache
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.dll
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\refint\pjogoVelha.dll
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.pdb
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\pjogoVelha.genruntimeconfig.cache
+C:\Users\Luciano\source\repos\pjogoVelha\pjogoVelha\obj\Debug\net5.0\ref\pjogoVelha.dll
